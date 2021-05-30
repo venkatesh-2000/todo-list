@@ -17,7 +17,7 @@ body{
     text-align: center;
     align-items: center;
     justify-items: center;
-    font-size: 250%;
+    font-size: 200%;
 }
 h1{
     font-size: 250%;
@@ -65,3 +65,4 @@ h1{
     text-decoration: line-through;
     color: gray;
 }
+
