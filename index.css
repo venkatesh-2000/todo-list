@@ -68,7 +68,7 @@ h1{
 @media screen and (max-width:650px){
     body{
         width:100%;
-        margin: 0;
+        margin:5px;
         font-size: 50px !important;
     }
     #add{
