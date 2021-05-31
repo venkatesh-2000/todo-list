@@ -65,4 +65,27 @@ h1{
     text-decoration: line-through;
     color: gray;
 }
+@media screen and (max-width:650px){
+    body{
+        width:100%;
+        margin: 0;
+        font-size: 50px !important;
+    }
+    #add{
+        width:75%;
+        margin: 0;
+        font-size: 25px !important;
+    }
+    #event{
+        width: 70%;
+        margin: 0;
+        font-size: 25px !important;
+    }
+    #container,h1{
+
+        margin: 0;
+        font-size: 100% !important;
+    }
+    
+}
 
